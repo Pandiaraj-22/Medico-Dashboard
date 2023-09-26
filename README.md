@@ -12,6 +12,6 @@ Used Language:
 
 ☆ CSS
 
-☆ BOOTSTRAP 5
+☆ BOOSTSTRAP 5
 
 
