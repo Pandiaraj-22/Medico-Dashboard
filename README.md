@@ -1,7 +1,5 @@
 ✧ This is a webpage for Sales of Medicines.
 
-✧ It is purely done in React.
-
 Used Language:
 
 ☆ REACT
